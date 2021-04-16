@@ -5,7 +5,7 @@
     "distribution_style": true,
     "preserve_xattr": false,
     "install_location": "/",
-    "version": "1.1",
+    "version": "1.2",
     "ownership": "recommended",
     "identifier": "se.gu.it.setinput",
     "signing_info": {
