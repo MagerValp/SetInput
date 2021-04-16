@@ -19,5 +19,7 @@ defaults write /Library/Preferences/com.apple.HIToolbox '{
     );
 }'
 
+defaults write /Library/Preferences/com.apple.loginwindow showInputMenu -bool YES
+
 
 exit 0
