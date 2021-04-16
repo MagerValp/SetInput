@@ -7,7 +7,7 @@
     "install_location": "/",
     "version": "1.0",
     "ownership": "recommended",
-    "identifier": "se.gu.it.setinput.swedish",
+    "identifier": "se.gu.it.setinput",
     "signing_info": {
         "identity": "Developer ID Installer: University of Gothenburg",
         "timestamp": true
