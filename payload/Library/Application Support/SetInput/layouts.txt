@@ -1,0 +1,4 @@
+# List of layouts to enable. The first layout will also be selected.
+com.apple.keylayout.Swedish-Pro
+com.apple.CharacterPaletteIM
+com.apple.inputmethod.EmojiFunctionRowItem

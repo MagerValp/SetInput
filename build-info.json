@@ -1,0 +1,15 @@
+{
+    "postinstall_action": "none",
+    "suppress_bundle_relocation": true,
+    "name": "SetInput_Swedish-${version}.pkg",
+    "distribution_style": true,
+    "preserve_xattr": false,
+    "install_location": "/",
+    "version": "1.0",
+    "ownership": "recommended",
+    "identifier": "se.gu.it.setinput.swedish",
+    "signing_info": {
+        "identity": "Developer ID Installer: University of Gothenburg",
+        "timestamp": true
+    }
+}
