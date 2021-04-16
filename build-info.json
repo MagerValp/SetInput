@@ -1,5 +1,5 @@
 {
-    "postinstall_action": "none",
+    "postinstall_action": "restart",
     "suppress_bundle_relocation": true,
     "name": "SetInput_Swedish-${version}.pkg",
     "distribution_style": true,

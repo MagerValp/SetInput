@@ -11,6 +11,9 @@
 	<key>RunAtLoad</key>
 	<true/>
 	<key>LimitLoadToSessionType</key>
-	<string>Aqua</string>
+	<array>
+		<string>Aqua</string>
+		<string>LoginWindow</string>
+	</array>
 </dict>
 </plist>
