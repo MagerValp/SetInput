@@ -3,6 +3,13 @@
 
 defaults write /Library/Preferences/com.apple.HIToolbox '{
     AppleCurrentKeyboardLayoutInputSourceID = "com.apple.keylayout.Swedish-Pro";
+    AppleEnabledInputSources =     (
+                {
+            InputSourceKind = "Keyboard Layout";
+            "KeyboardLayout ID" = 7;
+            "KeyboardLayout Name" = "Swedish - Pro";
+        }
+    );
     AppleInputSourceHistory =     (
                 {
             InputSourceKind = "Keyboard Layout";
